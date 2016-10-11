@@ -1,0 +1,11 @@
+Conexion a SF (Clase armada)
+Conexion a joomla y borrar datos
+
+Before
+1.- Crear conexion a SF.
+2.- Crear un usuario nuevo con pass
+3.- Llamar al driver
+4.- Pasar url 
+
+After
+1.- 
